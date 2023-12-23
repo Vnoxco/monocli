@@ -1,4 +1,4 @@
-Install on Windows
+##Install on Windows
 
 Requirements
 - Chocolatey (windows package manager)
