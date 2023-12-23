@@ -1,3 +1,6 @@
+<h1 align="center">MonoCLI</h1>
+<p align="center">MonoBill's official CLI for quicker theme and app development. This command line tool comes with handy features like automatic file uploads for website themes, running your app locally for easier development.</p>
+<br>
 <h2>Install on Windows</h2>
 
 Requirements
