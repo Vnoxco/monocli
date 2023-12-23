@@ -15,3 +15,6 @@ Steps:
 - Edit php.ini and change ;extension=zip to extension=zip and ;extension=fileinfo to extension=fileinfo
 - Install ngrok https://ngrok.com/download
 - Install MonoCLI "npm install -g @ron-vnox/monocli"
+
+NB -
+If you are using the Laravel + Vue application, Vite will only work if you view the app from the same machine you are serving the app from. Vite runs on localhost.
