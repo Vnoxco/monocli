@@ -5,7 +5,7 @@ import fs from "fs";
 export class RestClient {
     constructor(baseURL) {
         if(!baseURL) {
-            baseURL = "https://api.dev.gomonobill.com/api/developer/cli";
+            baseURL = "https://api.gomonobill.com/api/developer/cli";
         }
         const hiddenFolderPath = path.join(process.env.HOME || process.env.USERPROFILE, '.mono');
         const filePath = path.join(hiddenFolderPath, 'access_token');

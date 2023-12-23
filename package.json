@@ -1,5 +1,5 @@
 {
-  "name": "monocli",
+  "name": "@ron-vnox/monocli",
   "version": "1.0.0",
   "description": "MonoBill developer CLI",
   "main": "src/index.js",
