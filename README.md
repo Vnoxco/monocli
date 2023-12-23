@@ -1,4 +1,4 @@
-##Install on Windows
+<h2>Install on Windows</h2>
 
 Requirements
 - Chocolatey (windows package manager)
