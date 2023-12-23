@@ -1,0 +1,38 @@
+{
+  "name": "monocli",
+  "version": "1.0.0",
+  "description": "MonoBill developer CLI",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mono": "src/index.js"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vnoxco/monocli.git"
+  },
+  "keywords": [
+    "MonoCLI"
+  ],
+  "author": "MonoBill",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vnoxco/monocli/issues"
+  },
+  "homepage": "https://github.com/Vnoxco/monocli#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^3.3.0",
+    "archiver": "^6.0.1",
+    "axios": "^1.6.2",
+    "chalk": "^5.3.0",
+    "form-data": "^4.0.0",
+    "inquirer": "^9.2.12",
+    "isomorphic-git": "^1.25.1",
+    "open": "^10.0.0",
+    "watcher": "^2.3.0",
+    "yargs": "^17.7.2"
+  }
+}
