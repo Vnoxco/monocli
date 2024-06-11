@@ -12,9 +12,9 @@
 Requirements
 - Chocolatey
 - NodeJS
-- PHP (if using laravel app)
-- Composer (if using laravel app)
-- Ngrok
+- PHP (if creating an app using laravel)
+- Composer (if creating an app using laravel)
+- Ngrok (if creating an app)
 
 Steps:
 <ol>
@@ -32,9 +32,9 @@ Steps:
 Requirements
 - Homebrew
 - NodeJS
-- PHP (if using laravel app)
-- Composer (if using laravel app)
-- Ngrok
+- PHP (if creating an app using laravel)
+- Composer (if creating an app using laravel)
+- Ngrok (if creating an app)
 
 Steps:
 <ol>
